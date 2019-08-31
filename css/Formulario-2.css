@@ -1,0 +1,11 @@
+ @charset="UTF-8";
+
+form{
+	margin-top:60px;
+}
+ fieldset {
+	 border-color: #cecece;
+	 margin: 20px;
+	 width: 450px;
+ }
+ 
